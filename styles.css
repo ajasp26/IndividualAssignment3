@@ -33,8 +33,8 @@ header {
 h1 {
     font-size: 2em;
     margin-top: 10px;
-    color: #333;  /* A dark color for visibility on light backgrounds */
-    font-family: 'Pacifico', cursive; /* Pacifico font with a fallback to any cursive font */
+    color: #333;  
+    font-family: 'Pacifico', cursive; 
 }
 
 nav {
